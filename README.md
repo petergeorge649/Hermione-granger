@@ -24,6 +24,7 @@ Exploring, Wrangling, Visualisation and Analysis of Real Estate Data.
 # Database
 
 # Visualisation
+![alt text](https://github.com/petergeorge649/Hermione-granger/blob/main/tableau.png)
 
 # Statistical Analysis
 
