@@ -1,5 +1,5 @@
 # Hermione-granger
 Mid-Bootcamp Project 
-![](images/ReadMe%20spaces.png)
+![alt text](https://github.com/petergeorge649/Hermione-granger/blob/main/ReadMe.png)
 
 
