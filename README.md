@@ -29,7 +29,7 @@ Exploring, Wrangling, Visualisation and Analysis of Real Estate Data.
 # Project Outline
 The project started by building a model that will predict the price of a house based on features provided in the dataset. The characteristics of the houses was also also shown using some business intelligence tool such as Tableau. Some of iteretsing questions were answered through the assist of SQL in understanding the data challenge.
 
-![alt text](https://github.com/petergeorge649/Hermione-granger/blob/main/image.png)
+![alt text](https://github.com/petergeorge649/Hermione-granger/blob/main/ReadMe.png)
 
 # Scenario
 You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated.
