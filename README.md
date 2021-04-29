@@ -45,7 +45,7 @@ date: the date the house was sold.
 
 price: the price of the house.
 
-" waterfront "": "the house which has a view to a waterfront.""
+waterfront : the house which has a view to a waterfront.""
 
 condition: How good the condition is (Overall). 1 indicates worn-out property and 5 excellent.
 
