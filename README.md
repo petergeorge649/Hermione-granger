@@ -70,7 +70,7 @@ Through the use of Tableau we were  able to effectively envision distinctive  pl
 
 Tableau visualization for this project can be found under this link;
 
-https://public.tableau.com/profile/peter.george.ngugulu#!/vizhome/MidProjectworkongoing_16191675574620/WashingtonZipcodesbasedonPrice?publish=yes
+[link to tableau](https://public.tableau.com/profile/peter.george.ngugulu#!/vizhome/MidProjectworkongoing_16191675574620/WashingtonZipcodesbasedonPrice?publish=yes)
 
 # Statistical Analysis
 Under this stage we described the nature of the data to be analyzed, the given data were explored, the model to summarize understanding of how the data relates to the underlying dependent variable was created. This includes proving or disprove the validity of the model and lastly was to employ predictive analytics to anticipate future trends.
